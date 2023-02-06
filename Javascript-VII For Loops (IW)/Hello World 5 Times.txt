@@ -1,0 +1,6 @@
+function printHelloWorld5Times() {
+    for(let num=1; num<=5; num++){
+        console.log("Hello World")
+    }
+  
+}
