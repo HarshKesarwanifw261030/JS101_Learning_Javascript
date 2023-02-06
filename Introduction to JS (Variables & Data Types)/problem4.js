@@ -1,0 +1,22 @@
+const school = ("       ABC SCHOOL     ");
+console.log(school);
+let x = "-----------------------";
+console.log(x);
+const name = "Name - Harsh Kesarwani";
+console.log(name);
+const section = "Section - B";
+console.log(section);
+const rollNo ="RollNo. - 21";
+console.log(rollNo);
+let y ="-----------------------";
+console.log(y);
+const english = "English - 90/100";
+console.log(english);
+const math = "Mathematics - 90/100";
+console.log(math);
+const science = "Science - 90/100";
+console.log(science);
+let z = "-----------------------";
+console.log(z);
+const grade = "Grade - 'A'"
+console.log(grade);
